@@ -1,0 +1,57 @@
+Draft Twitter Exit Plan Created by methodicjon
+
+Steps / Stages:
+
+Stages: denial, anger, bargaining, depression, acceptance
+
+1. Denial -
+      Me : Twitter won't get bad after E.M. buys it. He will make it better, lots of money on the line
+      Reality : Seems I was wrong
+
+2. Anger - Yeah, pretty simple here
+
+3. / 4. Bargaining / Depression - ** I am here still **
+
+
+
+5. Acceptance - This is what Acceptance looks like.
+
+
+
+Steps:
+
+
+1. Get a list of all the people that I follow
+      Exploring: 
+       https://www.twtdata.com/
+
+2. Request offical data back up from Twitter
+
+3. Update my profile with messaging eg. #GoneUntilThingsImprove (still workshopping that) and link to 
+     https://influencermarketinghub.com/linktree-alternatives/
+     
+     I personally plan to use https://lnk.bio/
+     
+4. Reset Twitter password fresh
+
+5. Pick top 5 people I follow and use something like https://mailbrew.com to stay informed 
+
+6. Make Account Private ***Make sure backups of Followers and following is completed prior*** 
+   
+   This is critical since it will reduce the value of Twitter and protect your content. Hopefully your data can be exported and then imported into a new system
+
+
+Stage 4 - Letting Go
+
+
+7. Delete Twitter App 
+
+
+8. Decompress for one week / until 1/1/2023 without Twitter
+
+9. Figure out a different Twitter Alternative (huge process cloud) lots of unknowns.
+  Considering
+  
+    Post
+    Mastadon
+    spoutible.com - Christopher Bouzy @cbouzy (bot sentinall developer)
